@@ -3,3 +3,6 @@
 
 # Ignore any keys.json file
 keys.json
+
+#other useless stuff
+.DS_Store
