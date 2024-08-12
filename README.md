@@ -1,4 +1,4 @@
-# cool-ml-projects
+# cool-ml-projects 🚀
 
 Has cool stuff, and stuff needed to build more cool stuff. When you add projects, please add a short high level description of what it does here:
 
