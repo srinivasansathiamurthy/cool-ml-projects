@@ -6,6 +6,8 @@ Has cool stuff, and stuff needed to build more cool stuff. When you add projects
 2. DMTCS: google vision document text extraction model connected to gpt4o-mini. Scrappy DONUT w/ decision making abilities? Something like that.
 3. ARAGOG: web crawler with SENTIENCE
 4. DOM-INIC: extracting dom graph + metadata for use in cross-sites navigations
+5. Character AI (to be renamed to Thalia): Basically Thalia from "The incredible true story of logic"
+
 
 Key points (PLEASE READ):
 
