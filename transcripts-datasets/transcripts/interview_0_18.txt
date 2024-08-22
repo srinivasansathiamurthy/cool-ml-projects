@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1"/>
+<title>CNN.com - Transcripts</title>
+
+<link rel="stylesheet" href="/assets/story.css" type="text/css">
+
+<style type="text/css">
+<!--
+.cnnTransHeaders,
+.cnnTransDate
+{ font-family: verdana, arial, sans-serif; }
+
+.cnnTransCal,
+.cnnTransHead,
+.cnnTransStoryHead,
+.cnnTransSubHead
+{ font-family: arial, helvetica, sans-serif; }
+
+.cnnTransHeaders,
+.cnnTransDate,
+.cnnTransProv
+{ font-size: 10px; }
+
+.cnnTransSubHead
+{ font-size: 12px; }
+
+.cnnTransHead
+{ font-size: 14px; }
+
+.cnnTransStoryHead
+{ font-size: 16px; }
+
+.cnnTransHeaders,
+.cnnTransDate,
+.cnnTransHead,
+.cnnTransStoryHead,
+.cnnTransSubHead,
+.cnnTransProv
+{ font-weight: bold; }
+
+.cnnTransHeaders,
+.cnnTransSubHead,
+.cnnTransDate
+{ color: #000000; }
+
+.cnnTransHead,
+.cnnTransStoryHead
+{ color: #CC0000; }
+
+.cnnTransHeaders,
+.cnnTransCal
+{ padding: 6px; }
+
+.cnnTransProv
+{font-family: verdana, helvetica, sans-serif; padding:1px;}
+
+#cnnContainer {
+	font-size: 16px;
+	line-height: 1.75;
+	margin: 10px auto 0;
+	max-width: 1100px;
+}
+
+.breaking-news-showing #cnnContainer {
+	margin-top: 20px;
+}
+
+#cnnContainer a {
+	color: #006598;
+}
+
+#cnnContainer a:hover {
+	color: #C00;
+}
+//-->
+</style>
+
+<script language="JavaScript1.1" src="/assets/main.js" type="text/javascript"></script>
+
+<script>
+	var cnnSiteWideCurrDate = new Date(2013, 1, 12);
+</script>
+</head>
+
+<body id="contentArea" onload="cnnHandleCSIs()">
+<script>window.CNNSTATICSECTION = '';</script>
+<div class="cnn-js-chrome-wrapper">
+    <div class="cnn-js-navigation" data-type="nav"></div>
+</div>
+<script>var CNNENV = "//www.cnn.com";</script>
+<script src="//z.cdn.turner.com/cnn/.element/ssi/www/misc/4.0/static/js/static-chrome-companion.min.js?v23"></script>
+
+<div id="cnnContainer">
+	<div id="cnnContentContainer">
+		<!-- breaking news banner -->
+		<!--include virtual="/editionssi/breaking_news/2.0/bannerCSI.html"-->
+		<div id="cnnMainContent">
+			<div id="cnnReskin">
+				<div class="cnnWCBox">
+					<div class="cnnBoxHeader"><div></div></div>
+					<div class="cnnBoxContent">
+						<div id="cnnPageTitle">
+							<!-- Header -->
+							<table cellpadding="0" cellspacing="0" border="0">
+								<tr valign="bottom">
+									<td width="264">
+										<a href="/"><img src="/assets/header.transcripts.gif" alt="TRANSCRIPTS" width="259" height="32" hspace="0" vspace="0" border="0" align="left"/></a>
+									</td>
+									<td width="370" align="left">
+										<span style="font-family: verdana, helvetica, sans-serif; font-size:10px; font-weight:bold; padding:1px;"><a href="/providers" target="providers">Transcript Providers</a></span>
+									</td>
+								</tr>
+							</table>
+							<!-- /Header -->
+						</div>
+						<div class="clear"><img src="/assets/1.gif" width="1" height="5" border="0" alt=""/></div>
+						<!-- Content -->
+
+						<!-- table width="770" cellpadding="0" cellspacing="0" border="0" id="cnnArticleWireFrame" -->
+						<table cellpadding="0" cellspacing="0" border="0" id="cnnArticleWireFrame">
+							<tr><td colspan="2" bgcolor="#ffffff"><img src="/assets/1.gif" width="634" height="1" hspace="0" vspace="0" alt="" border="0"/></td></tr>
+							<tr valign="top">
+								<td><a name="ContentArea"></a><div style="padding-left:10px;">
+									<table width="346" height="280" cellpadding="0" cellspacing="0" border="0" align="right">
+										<tr valign="top">
+											<td><img src="/assets/1.gif" width="10" height="280" hspace="0" vspace="0" alt="" border="0"></td>
+											<td width="336" align="right"><!-- ADSPACE: transcripts/rgt.336x280 -->
+
+<div id="ad-803645" align="center" style="padding: 0; margin: 0; border: 0;"></div>
+<br clear="all"/>
+											</td>
+										</tr>
+									</table>
+
+<table width="288" cellpadding="0" cellspacing="0" border="0" bgcolor="#666666">
+	<tr valign="bottom">
+		<td><img src="/assets/1.gif" width="6" height="24" hspace="0" vspace="0" alt="" border="0"></td>
+		<td><img src="/assets/shows_by_cat_white_header.gif" width="125" height="19" hspace="0" vspace="0" alt="" border="0"></td>
+		<td align="left">&nbsp;</td>
+	</tr>
+</table>
+
+<p><a href="/" class="cnnTransProv">Return to Transcripts main page</a></p>
+
+
+<p class="cnnTransStoryHead">CNN Larry King Live</p>
+<p class="cnnTransSubHead">Encore: Interview With Stevie Wonder</p>
+<p class="cnnBodyText">Aired December 23, 2010 - 21:00 &nbsp; ET</p>
+<p class="cnnBodyText">THIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.</p>
+<p class="cnnBodyText"><br/>(BEGIN VIDEO CLIP)<br/> <br/>LARRY KING, HOST:  Tonight --  <br/> <br/>(MUSIC)<br/> <br/>KING:  Stevie Wonder.  <br/> <br/>(MUSIC)<br/> <br/>KING:  Next on LARRY KING LIVE.  <br/> <br/>(MUSIC)<br/> <br/>(END OF VIDEO CLIP)<br/> <br/>KING:  Good evening.  <br/> <br/>Stevie Wonder needs no introduction.  So why am I introducing him? Except for this.  He is a genius, one of the most influential artists and people of our time.  <br/> <br/>We welcome him back to LARRY KING LIVE.  <br/> <br/>He is the recipient of 25 Grammys and a Lifetime Grammy.  He's a political and social activist.  Last time he was on this show, by the way, he was on the eve of the inauguration of Barack Obama.  <br/> <br/>We start that way, Stevie.  How do you think he's doing?  <br/> <br/>STEVIE WONDER, GRAMMY AWARD-WINNING ARTIST:  I think President Obama is doing very well.  I think then obviously we were with a mess, unfortunately, the previous -- at the end of the previous eight years. And I think, you know, it's almost like when you gain a lot of weight, it takes more than a minute to get it off.  <br/> <br/>So we've got some things that we got into, unfortunately, that happened.  It's going to take it time to get it back to where it needs to be and to move forward.  But I think that he is moving the world forward.  I think that, you know, reports are coming out that basically that the economy is getting better, that jobs that are happening, and I just think that we have top stay on point as a united people of America.  <br/> <br/>KING:  Stevie Wonder, you've always been an activist, by the way?  Are you always active in political things?  WONDER:  I was sort of like the year we were talking about -- like when I was a little kid, obviously, activist trying to make sure my mother got me what I wanted to get for Christmas.  So --  <br/> <br/>(LAUGHTER)<br/> <br/>KING:  Active in that.  <br/> <br/>WONDER:  But no, I think I've always had my -- you know my feelings about different things and obviously, you know, the whole thing about what's right and what's wrong.  I think that maybe more a socialist, you know, just feeling that there is no reason why we can't, you know, work it out as a united people of the United States of America, but not just that, of the world.  <br/> <br/>KING:  All right.  Let's discuss this extraordinary career.  Where did you grow up?  <br/> <br/>WONDER:  Detroit.  <br/> <br/>KING:  A child of Detroit, born blind?  <br/> <br/>WONDER:  Yes.  Well, actually, I was not born blind but shortly after that because of being premature I had then being in the incubator (INAUDIBLE) -- it is a condition --  <br/> <br/>KING:  Do you see some light?  <br/> <br/>WONDER:  I may have.  I think the retrolental fibroplasia, that's what it's called.  And it happens from -- or it happened anyway from the temperature of the -- having to much oxygen and many kids that were born in the '50s, before the doctor discovered that, you know, there was another way to do it, I became blind.  <br/> <br/>KING:  Do you have brothers and sisters?  <br/> <br/>WONDER:  I have -- now five or four brother and one sister.  I lost a brother a few years ago.  <br/> <br/>KING:  They were all sighted?  <br/> <br/>WONDER:  Yes.  <br/> <br/>KING:  How did your parents -- what did your father do?  <br/> <br/>WONDER:  My father really was not the dominant person who raised the family, it was my mother who raised the family.  And my mother worked at a fish company working with -- for a while and then fortunately we were blessed with me being discovered at the age of 9, then signing to Motown by the age of 10 and then at 11 had the first record out.  <br/> <br/>KING:  And that helped the whole family?  <br/> <br/>WONDER:  We did make some money.  <br/> <br/>(LAUGHTER) KING:  You were a protegee.  When did you -- did you play piano like when you were like 5?  <br/> <br/>WONDER:  Yes, I played piano.  I mean I -- you know obviously, sound was very important to me.  So when I was able to -- you know, to touch that thing, what's called a piano, you know I was curious about it and I think the first -- that was probably the first thing that I played.  <br/> <br/>KING:  "Three Blind Mice."  <br/> <br/>WONDER:  Exactly.  <br/> <br/>(LAUGHTER)<br/> <br/>KING:  Appropriately enough.  Was it -- it had to be tough.  I've interviewed George Schering.  I'm sure you knew George Schering.  <br/> <br/>WONDER:  He was great.  Great man.  <br/> <br/>KING:  Yes.  He said that when you've never seen, he didn't regard it as a handicap.  Because that's the only thing he knew.  <br/> <br/>WONDER:  Yes.  I mean, it's definitely more difficult for someone who has seen and then lost their sight because obviously you're used to seeing and you used to being able to look at something then rather than go right to it, even though that's, you know, true, it's not impossible to survive and to live.  So --  <br/> <br/>KING:  Obviously you've proven it.  <br/> <br/>We're going to trace some extraordinary musical career.  We've just started with Stevie Wonder.  We'll talk more about his inner visions, too.  Don't go away.  <br/> <br/>WONDER:  Now let me say this to you.  I want to interview you, too.  <br/> <br/>KING:  OK.  In a while.  <br/> <br/>WONDER:  I'm a fan of yours.  I know you're going to be --  <br/> <br/>KING:  All right.  We'll let you do that, Stevie.  But this is your hour.  <br/> <br/>(MUSIC)<br/> <br/>(COMMERCIAL BREAK)<br/> <br/>(MUSIC)<br/> <br/>KING:  We're back with Stevie Wonder.  <br/> <br/>Do you remember the first thing you ever wrote?  <br/> <br/>WONDER:  There's a song I wrote called "Elephant Della."  <br/> <br/>KING:  "Elephant Della."  WONDER:  Elephant Della, that's the name I keep hearing in my heart. Elephant Della -- it's like some --  <br/> <br/>KING:  That could be a hit.  <br/> <br/>WONDER:  I don't think so.  <br/> <br/>(LAUGHTER)<br/> <br/>WONDER:  It wasn't then and it's not now.  <br/> <br/>KING:  What was the first hit?  <br/> <br/>WONDER:  The first hit we had was a song called "Fingertips."  And originally --  <br/> <br/>KING:  Third album, right?  <br/> <br/>WONDER:  That was in the -- yes, third album.  The jazz soul of my heart.  The first time it was recorded, it was a live (INAUDIBLE) which was a project that Motown did with me playing the harmonica and the piano and drums and stuff.  So it's like a kind of jazzed project. <br/> <br/>And than we did "Tribute to Uncle Ray," which is a tribute to Ray Charles that we did.  And then we were on the Motown Menu and in Chicago the "Fingertips" was done again.  We came up with a live version of it.  Clarence Paul who was my music director at the time came up with an idea for -- you know, everybody say yes and all that stuff.  And that was put on the album that was called "Little Stevie Wonder Live at the Apollo."  <br/> <br/>KING:  You're always -- you ain't so little anymore.  You were once Little Stevie Wonder, right?  <br/> <br/>WONDER:  Never little.  Big in spirit.  Small in size.  Growth to kind of match my spirit.  <br/> <br/>KING:  Did the harmonica come naturally to you, too?  <br/> <br/>WONDER:  It was a -- harmonica was something that, you know, obviously growing up in Detroit you'd hear the different harmonica players, come and playing the blues and walking down on the streets.  When I was off for the Christmas holiday season, an uncle gave me a harmonica -- chromatic harmonica.  And obviously I didn't know what to do with the button.  I said, what is this for?  <br/> <br/>And -- so like -- but then I figured that, you know, for me playing the harmonica after a while was like the saxophone to me.  And so it was like --  <br/> <br/>KING:  You take to music, you're called a genius.  Did that bother you being called a genius so young?  <br/> <br/>WONDER:  The amazing thing about being called a genius is, I never paid any attention to it.  I mean I appreciated it but I -- I think since the very early age I felt like this here is a gift from God and I'm only being used as a vehicle through which I can do these things.  <br/> <br/>So, you know, when you think about it, at 13 years old, you know you're a big star and all of that kind of stuff.  And you're talking about these interviews and things they're going to do.  OK, fine, but I want to go and watch "Huckleberry Hound."  <br/> <br/>I was definitely a kid.  <br/> <br/>(LAUGHTER)<br/> <br/>KING:  And you never stop being a kid.  When you write a song, where does it come from?  I mean, you don't see colors.  You don't see people.  You don't know what a television set looks like.  You feel a piano but you've never seen a piano.  <br/> <br/>Where does the music come from?  <br/> <br/>WONDER:  I honestly think that if I -- you know, were to see a piano or to see someone or all the other things you mentioned, I -- if ever I was to see it, I think I'd be pretty close to where I imagine it to be.  <br/> <br/>I think I've got a pretty good imagination.  And I think that, you know, we really feel before we see.  We really hear before we see. Because the information, you know, goes into our minds and we have to -- we have to really -- I mean, if we're honest with ourselves, if we're being ourselves, we have to say, OK, this is how I view this.  <br/> <br/>But when you have preconceptions, if your vision gives you preconceptions, then you've got a problem with yourself.  <br/> <br/>KING:  Do you read Braille?  <br/> <br/>WONDER:  What is that?  <br/> <br/>KING:  You don't read Braille?  <br/> <br/>WONDER:  I'm kidding you.  Of course I read Braille, yes.  <br/> <br/>KING:  Going to play a little under me.  We're going to a break.  Play anything under me.  Anything you wrote.  <br/> <br/>(MUSIC)<br/> <br/>KING:  My guest is Stevie Wonder.  More music with Stevie, as our guest.  We're honoring him tonight for the full hour.  Don't go away.  <br/> <br/>(COMMERCIAL BREAK)<br/> <br/>(MUSIC)<br/> <br/>KING:  We're back with Stevie Wonder.  What a career.  You toured with the Rolling Stones back in 1972.  <br/> <br/>WONDER:  Right.  <br/> <br/>KING:  I was going to ask, what was that like backstage.  What was that like?  <br/> <br/>WONDER:  It was interesting.  And we had a lot of fun.  A lot of what I wrote for "Talking Book," the album, that was very successful.  <br/> <br/>(MUSIC)<br/> <br/>WONDER:  Around that time, I did -- I wrote on that tour. "Superstition" I wrote on a day off of the tour for the Stones.  I mean, we had a good time.  We really did.  <br/> <br/>(CROSSTALK)<br/> <br/>KING:  Did you like their music?  <br/> <br/>WONDER:  We went to the Playboy -- was it the --  <br/> <br/>KING:  Playboy Club.  <br/> <br/>WONDER: To the mansion.  We went to the Playboy mansion in Chicago. And at that time, stupid me, I took my girlfriend so what -- you know? How much trouble could I really get into?  <br/> <br/>(LAUGHTER)<br/> <br/>WONDER:  But it was great.  I remember once we were performing -- we performed I think -- was it -- Madison Square.  And there's a big crowd obviously coming to the show.  And the guy said, listen, nobody can get in but Mick Jagger.  If you're not one of the Stones you can't get through here.  And so, I said, but this is Stevie Wonder.  This is Stevie Wonder.  <br/> <br/>I don't care about Stevie Who, but we want Mick Jagger.  If you're with the star, you'll get through.  I said, well, I am Mick Jagger. Oh you are?  Why you say that?  They let me through.  <br/> <br/>(LAUGHTER)<br/> <br/>KING:  Did you like their music?  <br/> <br/>WONDER:  Yes, I did.  <br/> <br/>KING:  You did.  OK.  When you write a song, let's think -- where does it like -- "My Cheri --  <br/> <br/>WONDER:  When I do.  <br/> <br/>KING:  "My Cheri Amour."  What a beautiful song.  Where did that come from?  <br/> <br/>WONDER:  That song really -- it was a song, was originally called --  <br/> <br/>KING:  My Marsha?  <br/> <br/>WONDER:  Yes.  My Marsha -- I wish that you were mine.  <br/> <br/>KING:  So why did you change it?  WONDER:  Marsha and I broke up.  <br/> <br/>(LAUGHTER)<br/> <br/>WONDER:  And so the lyricist -- the lyricist Silvia Moy wrote "My Cheri Amour."  <br/> <br/>Sorry, Marsha.  <br/> <br/>(LAUGHTER)<br/> <br/>WONDER:  But --  <br/> <br/>KING:  Oh., Marsha, you're sorry today, aren't you?  When you think -- when you --  <br/> <br/>(CROSSTALK)<br/> <br/>WONDER:  She's probably saying, well, it's about (INAUDIBLE) anyway, so whatever.  <br/> <br/>KING:  When you think a song out, someone has to write down all the notes, right?  <br/> <br/>WONDER:  Well, you know, in today's technology, you can play on a keyboard like this or any of the other keyboard and --  <br/> <br/>KING:  Someone can write from it?  <br/> <br/>WONDER:  Or a piano.  And through MIDI, which is the technology that takes based on numbers, digital, information and take that information and convert that into the writing of each note that you play.  The amount of beats or bars that you play the song in.  So that's how it happens today.  Now --  <br/> <br/>KING:  The machine can write the note?  <br/> <br/>WONDER:  Yes, there is a machine that can write or through the computer and software, it can be written out.  <br/> <br/>KING:  Are you always thinking of music?  Are you always sort of writing in your head?  <br/> <br/>WONDER:  I can't say that I'm always writing in my head but I do spend a lot of time in my head writing or coming up with ideas.  And what I do usually is write the music and melody and then, you know, maybe the basic idea.  But when I feel that I don't have a song or just say, God, please give me another song.  And I just am quiet and it happens. It's just amazing.  <br/> <br/>KING:  Like?  <br/> <br/>WONDER:  Like --  <br/> <br/>KING:  Play something.  WONDER:  Larry, we're going to miss you, so don't ever go too long. If you're a woman I may have kissed you, but that will never happen, happen ever.  <br/> <br/>Larry, I remember listening to you when you interviewed James Brown on the radio.  I was younger then and you were, too, a few years ago.  <br/> <br/>(APPLAUSE)<br/> <br/>KING:  Someone will record that and he'll dump me and it will be Marsha.  <br/> <br/>(LAUGHTER)<br/> <br/>KING:  More music, more Stevie after the break.  <br/> <br/>(COMMERCIAL BREAK)<br/> <br/>(MUSIC)<br/> <br/>KING:  Do you have a favorite song?  <br/> <br/>WONDER:  Favorite song.  You know, I always when people ask me, like, what is my most favorite song, I quote Duke Ellington, when they would ask him, what's his favorite composition?  And I say, I haven't written it yet.  Because, you know, there are different songs for different occasions.  <br/> <br/>There's "My Cheri Amour" for a certain day, there's "As" for a certain day.  You know, "I Just Called to Say I Love You," for a certain day, happy -- I mean just different songs.  A vision for a certain day.  So I think that the blessing is that I have been able to write songs that have created so many different emotions at different times that I can connect to.  <br/> <br/>KING:  Do you remember where it begins -- like "I Just Called to Say I Love You," where did the inspiration came from?  <br/> <br/>WONDER:  I think the idea of the story came from really the spirit of, you know, how love is something that's for all seasons, whether there'd be a holiday or not a holiday or just being able to express that place any time, love is always something that can be expressed.  <br/> <br/>And then for years I just had the -- I just called to say I love you, I just called to say how much I care.  <br/> <br/>KING:  Do the lyrics come to you right away, too?  <br/> <br/>WONDER:  Well, the lyric for that came from me having some words already and then putting them together in a way that worked good for the film and equally as important for the song.  <br/> <br/>KING:  Did you know that it was going to be a hit?  <br/> <br/>WONDER:  I knew it was going to be a hit.  I knew that.  <br/> <br/>KING:  I thought you would know that.  <br/> <br/>WONDER:  I knew that.  <br/> <br/>KING:  Of course, how could that not be a hit?  <br/> <br/>(LAUGHTER)<br/> <br/>WONDER:  I just felt good about it all the time.  I remember playing it for different times, different birthdays and stuff.  But I see only had some words I would just make up at the time.  <br/> <br/>KING:  You had other words for that, too?  <br/> <br/>WONDER:  I mean basically --  <br/> <br/>KING:  Was there a Marsha for that?  <br/> <br/>WONDER:  No Marsha.  No Marsha.  <br/> <br/>KING:  Have you written a song you thought would be a smash and wasn't?  <br/> <br/>WONDER:  Oh, we all have that.  Every single writer has a song that they think is going to be, you know, incredible and then --  <br/> <br/>KING:  What was one that disappointed you?  <br/> <br/>WONDER:  I think a song I did, "All About the Love Again," I wrote that a while back and then recently we put it on the album for President Barack Obama for the campaign.  And I remember when I -- I wrote the song the idea of it was -- the melody was so catchy.  <br/> <br/>(SINGING):  Da, da, doo, da, Oh, yeah it sounds so good to me <br/> <br/>KING:  How could that miss?<br/> <br/>WONDER:  I know.  What's up?  <br/> <br/>(SINGING):  Sounds good to me.  <br/> <br/>KING:  Sounds good to me, Stevie Wonder, signed, sealed, delivered, he's yours next.  <br/> <br/>(COMMERCIAL BREAK) <br/> <br/>WONDER SINGING:  I never dreamed in the summer, but now my, my love has gone away.  Michael, why didn't you stay?<br/> <br/>WONDER:  I loved Michael a lot. I just felt that the way that certain people that, you know, they -- well, here's the deal.  I felt that if you're going befriend someone, and God forbid they pass away, then why do you come after they died to talk about their business?  I was not feeling that, at all.  <br/> <br/>KING:  We're back with Stevie Wonder.  I guess the song that is more singers sing, nightclub performances, my wife sings it.  She sings a lot of club songs, is "For Once In My Life".  <br/> <br/>WONDER:  Hey, so you want me to write your wife a song?  <br/> <br/>KING:  Yeah, I'd love you to.  <br/> <br/>WONDER:  Are you serious?  <br/> <br/>KING: Yeah.  <br/> <br/>WONDER:  OK, I'll do that.  Seriously, I will do it.  And the reason I will do it because, as much of some of the things that I did see when you were doing the thing about Michael Jackson, kind of pissed me off a little bit-but I thought the spirit in which you kept it with integrity was great.  <br/> <br/>KING:  Tell me about "For Once In My Life".  Where did that come from? <br/> <br/>WONDER SINGING:  You can take it <br/> <br/>WONDER:  The way that went was, I was in Motown, in Detroit.  And I was with my producer, Hank Cosby at the time, who -- I said, I've got this great idea.  Obviously I heard Tony Bennett do the song, when I was like maybe 12 years old, 13, whatever it was, 14.  And I loved it, you know, what he did with the song.  But by about 17, 18, I said, wow, that's such a great song.  Let me try to do it another way.  I said, Hank, I've got a great idea to do this song.  He said, what song?  I said, "For Once In My Life,"  So, I went to the studio, and so I go like-<br/> <br/>(PLAYS MUSIC)<br/> <br/>What are you doing, what's up?  I said, "Listen, just listen."  They said, what song?  I said, "For Once In My Life".  <br/> <br/>WONDER SINGING:  For once in my life I have someone who needs me, someone I needed so long.  For once I'm unafraid I can go where life leads me, somehow I know I'll be strong.  For once I can touch what my heart used to dream of, long before I knew, oh, someone warm like you, would make - <br/> <br/>WONDER:  By the time I get to that, I hear this knock on the door. And so, Ron says, what are you doing to my song?  And I said, I'm telling you, Ron, this is going to be a hit.  He said, "No, no, no." I said, "I'm telling you, this is a good way to do it."  He said, "OK. If I'm wrong, you know, I'll buy you dinner.  If I'm right, you buy me car-no.  But any way, I said, "I'm telling you, I feel it."  <br/> <br/>KING:  You put your own stamp on it, though.  <br/> <br/>WONDER:  I just felt that that was the way to do it.  It was a song that was really -- I mean, in both ways, obviously, it's a great song. I think part of a great song is that you're able to do various interpretations of that song.  <br/> <br/>KING:  Yeah.  <br/> <br/>WONDER:  And so that song, done like that, to me it felt like what I could relate to at 17, 18 years old.  <br/> <br/>KING:  Play us to the break.  We've got to go to break here.  Be my tune smith.<br/> <br/>WONDER:  You going to sing with me?  Come on, let's go.<br/> <br/>KING:  Sure, let's go.  <br/> <br/>SINGING:  For once in my life I have someone that needs me, someone that I've needed for so long; for once I unafraid I can go where life leads me, and somehow I know I'll be strong.  My heart is a dreamer long before I knew - <br/> <br/>KING:  We'll be right back.  <br/> <br/>(COMMERCIAL BREAK) <br/> <br/>WONDER SINGING, VIDEO MONTAGE OF MANY SONGS:  <br/> <br/>KING:  We're back with Stevie Wonder.  <br/> <br/>How did "Ebony and Ivory" come about?  <br/> <br/>SINGING:  Side by side, on my piano keyboard, oh, Lord, why don't we?<br/> <br/>WONDER:  It was a promotion person that worked for Motown for some years that reached out to someone that was working with me at the time, saying that Paul McCartney had a song that he felt would be great for he and I to do together.  The other person was Herb Beeker (ph) who worked in Motown, right when I first got with Motown.  <br/> <br/>And so, you know, we worked it out to connect and get together.  We met in Manzerott (ph) and we recorded the song.  I felt the sentiment would be something that was appropriate and I just felt that, at the end of the day, it really is about, you know, being able to, you know, understand that we may have differences of opinions, but at the end of the day we have to come together, and live and work together.  Just as on my piano, why can't we?  So it was a great song.  <br/> <br/>KING:  And at a Larry King Cardiac Gala, we sang that song together.  <br/> <br/>WONDER:  I remember that. <br/> <br/>KING:  But I didn't do ivory.  What did I sing?<br/> <br/>WONDER:  You may have been ebony. <br/> <br/>KING:  No, I was ebony, and you were ivory.  <br/> <br/>WONDER:  Yeah. <br/> <br/>KING:  Let's see if we remember a little bit of it.  <br/> <br/>I don't remember the first line.  <br/> <br/>WONDER SINGING:  Ebony.  Ebony and ivory lived together in perfect harmony side by side on my piano keyboard, oh, Lord, why can't we? Side by side on my piano keyboard, oh, Lord, why can't we?  Ebony and ivory <br/> <br/>KING:  How we going to top that?  <br/> <br/>WONDER:  You stopped singing in the middle of it.  <br/> <br/>KING:  I know, I gave up.  <br/> <br/>WONDER:  So when the record comes out, you don't get as much as me.  <br/> <br/>KING:  OK.  How many instruments do you play?  <br/> <br/>WONDER:  Keyboards, drums, harmonica, percussion instruments.  <br/> <br/>KING:  Anybody you want to work with that you haven't?  <br/> <br/>WONDER:  I mean, I'm a big fan of music.  I'm a music lover.  So there probably isn't no one that I wouldn't want to work it.  I think it would come down to the chemistry.  And if the chemistry was right, and we had both the same feeling about working together, and if they could sing or play, and they didn't mind being challenged, I'm good.  <br/> <br/>KING: Will you play "Sir Duke" to break?  <br/> <br/>I need some tea.  Hold on.  How can we do this?  <br/> <br/>(PLAYS KEYBOARD)<br/> <br/>KING:  One handed.  <br/> <br/>WONDER SINGING:  Music is a world within itself, the language that we all understand, with an equal opportunity for all to sing and clap their hands, just because the record has a groove, don't make it in the group, but you can tell right away when the people start to move. They can feel it all over, they can feel it all over, people.  They can feel it all over they can feel it all over people.<br/> <br/>(COMMERCIAL BREAK)<br/> <br/>WONDER SINGING<br/> <br/>KING:  All right.  The crew was talking before we began this interview, and they all said they love a song which is not familiar to me, I've got some musical knowledge but I don't know everything.  And the song is called "Part-Time Lover."  What's your take on that?  How did that come about?  <br/> <br/>WONDER:  How did I write the song or what?  <br/> <br/>KING:  Yeah.  Not Marsha again.  <br/> <br/>WONDER:  This would have involved a few -- a couple different people. But this song I wrote when I was in England, and I don't know, it was just an idea.  The whole thing, the beat then was like -- and so it was like - SINGING:  Call up once, hang up the phone, to let me know -- let me start again.  <br/> <br/>Call up, ring once, hang up the phone, to let me know you made it home.  Got nothing to be wrong, with part-time lover.  If she's with me I'll blink the lights to let you know tonight's the night, for me and you, my part-time lover.  Chasing love underneath the sun, we are strangers by day, lovers by night, knowing it's so wrong, but feeling so right.<br/> <br/>You know, we can go on and on.  <br/> <br/>KING: Do you still do a lot of concerts?  <br/> <br/>WONDER:  Yes.  We just recently did the tour throughout Europe.  We've had different concepts.  The next two I'm going to do is going to be called "Threw The Eyes of Wonder." And the concept of that tour is going to be really taking the ideas that I see, you know, the visuals, how I -- how I've done the various songs, and how I visualize various things could be with something that would be a visual.  Whether it be a video, whether it be staging them a certain kind of way.  Because I think that, you know, obviously with every song that I've written, I have sort of a vivid imagination, or pictures as to how I view, and how I see as well as the world itself.  <br/> <br/>KING:  Through The Eyes Of Wonder, what a great idea.  Do you ever get -- how old are you now, Stevie?  <br/> <br/>WONDER:  60.  <br/> <br/>KING:  You ever think of hanging it up?  <br/> <br/>WONDER:  Hanging what up?  <br/> <br/>KING: Hanging up the career, just retiring? <br/> <br/>WONDER:  Obviously there will be some point when I'll decide, OK, I've got a daughter that sings, a son that sings.  I've got family that, you know, are talented, little children are very talented.  And so I think, you know, at some point, you know, life will give itself to them.  And by then, whenever that might be, I'll just not do it. Maybe just write songs or whatever.  But -- I love performing.  <br/> <br/>KING:  We'll be back with our remaining moments with the great Stevie Wonder.  Don't go away.<br/> <br/>(COMMERCIAL BREAK)<br/> <br/>WONDER SINGING<br/> <br/>KING:  Our remaining moments with the great Stevie Wonder.  I -- boy. It's -- it's so unbelievable to have had -- to be able to sit with people like you and to experience you firsthand, for a little kid from Brooklyn.  <br/> <br/>WONDER:  If I could ask you a question, how have you enjoyed, you've met so many different personalities -- <br/> <br/>KING: I've enjoyed every minute of it.  <br/> <br/>WONDER:  Really?  <br/> <br/>KING:  50 years went by like yesterday.  I remember the first day I started.  But this is about you.  So I'm going to, the great Artie Shore, he stopped playing at age 53.  And I asked him why and he said he had nothing more to say.  Do you ever feel that way?  <br/> <br/>WONDER:  For as long as there's life, for as long as we have things happening in the world, for as long as people haven't been able to work it out, for as long as people are not trying to work it out, for as long as there's crime and destruction and hate, bigotry, for as long as there is a spirit that does not have love in it, I will always have something to say.  <br/> <br/>KING:  Do you ever sing what Ray Charles used to sing, you ever sing "America"?  <br/> <br/>WONDER:  I haven't sang the song.  I like the song.  <br/> <br/>KING:  You ought to sing "America, The Beautiful".  <br/> <br/>WONDER:  OK.  I think it's a very, very pretty song.  Certain songs you hear people sing, you say, you know what?  I'm not going to think about touching that, because in he case of Ray, he did such an incredible job of it.  <br/> <br/>The national anthem, that Whitney Houston did, incredible.  And so there are various pieces that obviously, in time, I will do.  But I think that I have an appreciation for the talents of those people that have done them incredibly.  There's a song that I wrote called "Until You Come Back To Me," and my version was very sort of pop oriented a little bit.  And Aretha did it, Aretha Franklin did it and it was like, forget about it.  <br/> <br/>KING:  Play a little of it while we're closing out.  Stevie Wonder's been our guest.  "AC 360" is going to follow, and the latest news on CNN.  <br/> <br/>Play us out, Stevie.  <br/> <br/>WONDER SINGING:  I sit and wait in vain.  I love to rap on your door, tap on your window pane, I want to tell you, baby, the changes I've been going through missing you, till you come back to me, that's what I'm going to do.  <br/> <br/>KING:  Good night, everybody.  <br/> <br/>WONDER SINGING:  Till you come back to me, that's what I'm going to do <br/> <br/>KING:  Thank you, baby.  Let's hear it.  <br/> <br/>(APPLAUSE) <br/> <br/></p>
+
+
+                            </div></td>
+						</tr>
+					</table>
+
+						<!-- /Content -->
+					</div><!-- /cnnBoxContent -->
+					<div class="cnnBoxFooter"><div></div></div>
+				</div><!-- /cnnWCBox -->
+				<div class="clear"><img src="/assets/1.gif" width="1" height="1" border="0" alt=""/></div>
+			</div><!-- /cnnReskin -->
+		</div><!-- /cnnMainContent -->
+	</div><!-- /cnnContentContainer -->
+<script>var CNN = CNN || {}; </script>
+<div class="cnn-js-chrome-wrapper">
+    <div class="cnn-js-navigation" data-type="footer"></div>
+</div>
+<script type="text/javascript" src="//lightning.cnn.com/launch/7be62238e4c3/97fa00444124/launch-2878c87af5e3.min.js"></script>
+
+
+</div><!-- /cnnContainer -->
+<img src="//cdn.cnn.com/cnn/images/1.gif" alt="" id="TargetImage" name="TargetImage" width="1" height="1" 
+onLoad="getAdHeadCookie(this)"><img src="//cdn.cnn.com/cnn/images/1.gif" alt="" id="TargetImageDE" 
+name="TargetImageDE" width="1" height="1" onLoad="getDEAdHeadCookie(this)">
+
+</body>
+</html>

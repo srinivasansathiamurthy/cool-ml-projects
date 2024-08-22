@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1"/>
+<title>CNN.com - Transcripts</title>
+
+<link rel="stylesheet" href="/assets/story.css" type="text/css">
+
+<style type="text/css">
+<!--
+.cnnTransHeaders,
+.cnnTransDate
+{ font-family: verdana, arial, sans-serif; }
+
+.cnnTransCal,
+.cnnTransHead,
+.cnnTransStoryHead,
+.cnnTransSubHead
+{ font-family: arial, helvetica, sans-serif; }
+
+.cnnTransHeaders,
+.cnnTransDate,
+.cnnTransProv
+{ font-size: 10px; }
+
+.cnnTransSubHead
+{ font-size: 12px; }
+
+.cnnTransHead
+{ font-size: 14px; }
+
+.cnnTransStoryHead
+{ font-size: 16px; }
+
+.cnnTransHeaders,
+.cnnTransDate,
+.cnnTransHead,
+.cnnTransStoryHead,
+.cnnTransSubHead,
+.cnnTransProv
+{ font-weight: bold; }
+
+.cnnTransHeaders,
+.cnnTransSubHead,
+.cnnTransDate
+{ color: #000000; }
+
+.cnnTransHead,
+.cnnTransStoryHead
+{ color: #CC0000; }
+
+.cnnTransHeaders,
+.cnnTransCal
+{ padding: 6px; }
+
+.cnnTransProv
+{font-family: verdana, helvetica, sans-serif; padding:1px;}
+
+#cnnContainer {
+	font-size: 16px;
+	line-height: 1.75;
+	margin: 10px auto 0;
+	max-width: 1100px;
+}
+
+.breaking-news-showing #cnnContainer {
+	margin-top: 20px;
+}
+
+#cnnContainer a {
+	color: #006598;
+}
+
+#cnnContainer a:hover {
+	color: #C00;
+}
+//-->
+</style>
+
+<script language="JavaScript1.1" src="/assets/main.js" type="text/javascript"></script>
+
+<script>
+	var cnnSiteWideCurrDate = new Date(2013, 1, 12);
+</script>
+</head>
+
+<body id="contentArea" onload="cnnHandleCSIs()">
+<script>window.CNNSTATICSECTION = '';</script>
+<div class="cnn-js-chrome-wrapper">
+    <div class="cnn-js-navigation" data-type="nav"></div>
+</div>
+<script>var CNNENV = "//www.cnn.com";</script>
+<script src="//z.cdn.turner.com/cnn/.element/ssi/www/misc/4.0/static/js/static-chrome-companion.min.js?v23"></script>
+
+<div id="cnnContainer">
+	<div id="cnnContentContainer">
+		<!-- breaking news banner -->
+		<!--include virtual="/editionssi/breaking_news/2.0/bannerCSI.html"-->
+		<div id="cnnMainContent">
+			<div id="cnnReskin">
+				<div class="cnnWCBox">
+					<div class="cnnBoxHeader"><div></div></div>
+					<div class="cnnBoxContent">
+						<div id="cnnPageTitle">
+							<!-- Header -->
+							<table cellpadding="0" cellspacing="0" border="0">
+								<tr valign="bottom">
+									<td width="264">
+										<a href="/"><img src="/assets/header.transcripts.gif" alt="TRANSCRIPTS" width="259" height="32" hspace="0" vspace="0" border="0" align="left"/></a>
+									</td>
+									<td width="370" align="left">
+										<span style="font-family: verdana, helvetica, sans-serif; font-size:10px; font-weight:bold; padding:1px;"><a href="/providers" target="providers">Transcript Providers</a></span>
+									</td>
+								</tr>
+							</table>
+							<!-- /Header -->
+						</div>
+						<div class="clear"><img src="/assets/1.gif" width="1" height="5" border="0" alt=""/></div>
+						<!-- Content -->
+
+						<!-- table width="770" cellpadding="0" cellspacing="0" border="0" id="cnnArticleWireFrame" -->
+						<table cellpadding="0" cellspacing="0" border="0" id="cnnArticleWireFrame">
+							<tr><td colspan="2" bgcolor="#ffffff"><img src="/assets/1.gif" width="634" height="1" hspace="0" vspace="0" alt="" border="0"/></td></tr>
+							<tr valign="top">
+								<td><a name="ContentArea"></a><div style="padding-left:10px;">
+									<table width="346" height="280" cellpadding="0" cellspacing="0" border="0" align="right">
+										<tr valign="top">
+											<td><img src="/assets/1.gif" width="10" height="280" hspace="0" vspace="0" alt="" border="0"></td>
+											<td width="336" align="right"><!-- ADSPACE: transcripts/rgt.336x280 -->
+
+<div id="ad-803645" align="center" style="padding: 0; margin: 0; border: 0;"></div>
+<br clear="all"/>
+											</td>
+										</tr>
+									</table>
+
+<table width="288" cellpadding="0" cellspacing="0" border="0" bgcolor="#666666">
+	<tr valign="bottom">
+		<td><img src="/assets/1.gif" width="6" height="24" hspace="0" vspace="0" alt="" border="0"></td>
+		<td><img src="/assets/shows_by_cat_white_header.gif" width="125" height="19" hspace="0" vspace="0" alt="" border="0"></td>
+		<td align="left">&nbsp;</td>
+	</tr>
+</table>
+
+<p><a href="/" class="cnnTransProv">Return to Transcripts main page</a></p>
+
+
+<p class="cnnTransStoryHead">CNN Larry King Live</p>
+<p class="cnnTransSubHead">Encore: Holiday Music Spectacular</p>
+<p class="cnnBodyText">Aired December 24, 2010 - 21:00 &nbsp; ET</p>
+<p class="cnnBodyText">THIS IS A RUSH TRANSCRIPT. THIS COPY MAY NOT BE IN ITS FINAL FORM AND MAY BE UPDATED.</p>
+<p class="cnnBodyText"><br/>     LARRY KING, CNN ANCHOR:  Tonight, it's a holiday music spectacular.  Sting, Andrea Bocelli.<br/> <br/>     ANDREA BOCELLI, SINGER:  (SINGING)<br/> <br/>     L. KING:  David Archuleta.<br/> <br/>     DAVID ARCHULETA, SINGER:  (SINGING)<br/> <br/>     L. KING:  Katharine McPhee.<br/> <br/>     KATHARINE MCPHEE, SINGER:  (SINGING)<br/> <br/>     L. KING:  Kenny Rogers.<br/> <br/>     KENNY ROGERS, SINGER:  (SINGING)<br/> <br/>     L. KING:  The Harlem Alumni Ensemble.<br/> <br/>     HARLEM ALUMNI ENSEMBLE, GROUP:  (SINGING)<br/> <br/>     L. KING:  Shawn King.<br/> <br/>     SHAWN KING, SINGER:  (SINGING)<br/> <br/>     L. KING:  And "The Night Before Christmas" as only Queen Latifah can read it.  It's a special holiday celebration on LARRY KING LIVE. <br/> <br/>     Good evening.  Happy holidays.  We have a great hour of beautiful music for you tonight.  We will start it off with something special. Sting, he's an amazing artist.  Put him in an amazing setting and you have got something to remember.  So we kick off tonight with Sting accompanied by the terrific Chris Botti on trumpet.  The song is the old bass carol, "Gabriel's Message."  And the setting, the beautiful cathedral church of St. John, the Divine in Manhattan.  <br/> <br/>     STING:  (SINGING)<br/> <br/>     L. KING:  We go now from bass hymn to American classic.  "White Christmas" has had many incarnations, but you are going to be hard- pressed to find a better one than this one.  Andrea Bocelli's unmatched voice.  The famous composer, David Foster is on piano.  And the man who wrote it, Irving Berlin.  It's from Bocelli's new album "My Christmas." Here now is "White Christmas." <br/> <br/>     BOCELLI:  (SINGING)      (COMMERCIAL BREAK)<br/> <br/>     L. KING:  Kenny Rogers has been bringing joy to the world for decades with his music.  Kenny's current tour is scheduled to go until June of 2010.  To see if he is coming by the way to a venue near you, check out his schedule on our Web page, CNN.com/larryking.  He's here tonight from the Fox Theater in Detroit.  He'll sing the beautiful Christmas standard "Joy to the World."<br/> <br/>     ROGERS:  You know, the interesting thing about all of the songs, some of them written hundreds of years ago is that they were written for the single purpose of keeping alive the greatest ever told, the story of the birth of the Christ child.  <br/> <br/>     CROWD:  (SINGING)<br/> <br/>     ROGERS AND REBECCA LYNN HOWARD:  (SINGING)<br/> <br/>     (COMMERCIAL BREAK)<br/> <br/>     L. KING:  "American Idol's" David Archuleta has a new holiday album called "Christmas from the Heart."  He performs "Pat-A-Pan" for us now.  The song has its origins by the way in Burgundy, France. Fortunately, this performance is in English.  Archie, take it away.<br/> <br/>     ARCHULETA:  (SINGING)<br/> <br/>     (COMMERCIAL BREAK)<br/> <br/>     L. KING:  For many of you watching, "The Night Before Christmas" is a story that parents read to you on Christmas Eve.  And now you read it to your own children.  But I'll bet you've never heard it read like this.  Queen Latifah puts her own spin on the classic as she reads to children from the Milton Hershey School.<br/> <br/>     QUEEN LATIFAH, SINGER:  Oh a wonderful Christmas story called "The Night Before Christmas."  Are you with it, kids?  All right, here we go.  'Twas the night before Christmas when all through the house, not a creature was stirring, not even a mouse.  The stockings were hung by the chimney with care, in hopes that St. Nicholas soon would be there.  <br/> <br/>     The children were nestled all snug in their beds, while visions of sugarplums danced in their heads.  Sugarplums, nice.  And mama in her kerchief, and I in my cap, had just settled down for a long winter's nap.  <br/> <br/>     When out on the lawn there arose such a clatter, I sprang from the bed to see what was the matter.  Away to the window, I flew like a flash, tore open the shutters and threw up the sash.  The moon on the breast of the new-fallen snow gave a luster of midday to objects below.  When what to my wandering eye should appear but a miniature sleigh and eight tiny reindeer.  <br/> <br/>     With a little old driver, so lively and quick, I knew in a moment it must be St. Nick.  More rapid than eagles his courses they came, and he whistled and shouted and called them by name.  Now Dasher! Now Dancer! Now Prancer! Now Vixen! On Comet, on Cupid, on Donner and Blitzen.  To the top of the porch, to the top of the wall.  Now dash away, dash away, dash away all.  <br/> <br/>     As dry leaves that before the wild hurricane fly, when they meet with an obstacle, mount to the sky.  So up to the house top the coursers they flew, with the sleigh fall of toys, and St. Nicholas too.  And then, in a twinkling, I heard on the roof the prancing and pawing of each little hoof. As I drew in my head, and was turning around, down the chimney St. Nicholas came with a bound.  <br/> <br/>     He was dressed all in fur, from his head to his foot, and his clothes were all tarnished with ashes and soot.  A bundle of toys he had flung on his back, and he looked like a peddler just opening his pack.<br/> <br/>     His eyes -- how they twinkled! His dimples how merry! His cheeks were like roses, his nose like a cherry! His droll little mouth was drawn up like a bow, and the beard on his chin was as white as the snow; the stump of a pipe he held tight in his teeth, and the smoke it encircled his head like a wreath.  <br/> <br/>     He had a broad face and a little round belly that shook, when he laughed like a bowlful of jelly.  He was chubby and plump, a right jolly old elf, and I laughed when I saw him, in spite of myself.  A wink of his eye and a twist of his head, soon gave me to know I had nothing to dread.  <br/> <br/>     He spoke not a word, but went straight to his work, and filled all the stockings; then turned with a jerk, and laying his finger aside of his nose, and giving a nod, up the chimney he rose.  He sprang to his sleigh, to his team gave a whistle, and away they all flew like the down of a thistle.  But I heard him exclaim, ere he drove out of sight, happy Christmas to all, and to all a good night.<br/> <br/>     (COMMERICAL BREAK)<br/> <br/>     L. KING:  There is nothing better at Christmas time than the beauty of many voices raised in song.  Here's the great Harlem Alumni Ensemble to celebrate the season.  <br/> <br/>     HARLEM ALUMNI ENSEMBLE:  (SINGING) <br/> <br/>     (COMMERCIAL BREAK)<br/> <br/>     L. KING:  The lovely Tyra Banks was my guest recently.  I gave her a present.  At least now I know she is not going to re-gift it.  <br/> <br/>     (BEGIN VIDEO CLIP)<br/> <br/>     TYRA BANKS, "THE TYRA BANKS SHOW":  Hey, Mr. Larry King.  It is Tyra Banks here.  Now, you gave me a very early holiday gift when I was on your show.  You took it right off your body and gave it to me. And I'm doing my holiday show right now, and I decided to rock your gift.  <br/> <br/>     Check it out.  Whoo!  These are straight off your back.  And I'm wearing them.  What do you think?  What do you think?  <br/> <br/>     Next caller.  Next caller.  <br/> <br/>     I love you, Larry.  Happy holidays.  Happy holidays.  <br/> <br/>     CROWD:  Happy holidays.  <br/> <br/>     BANKS:  Larry.  Larry.  Larry.  Go Larry.  Go Larry.  <br/> <br/>     CROWD:  Go Larry.  Go Larry.  Go Larry.  Go Larry.  <br/> <br/>     BANKS:  Happy holidays, Larry.  <br/> <br/>     (END VIDEO CLIP)<br/> <br/>     L. KING:  Back at you, Tyra.  More great music ahead.  "American Idol's" Katherine McPhee.  And the beautiful -- and I have some prejudice here -- Shawn King are coming up.  <br/> <br/>     DAVID ARCHULETTA, "AMERICAN IDOL":  Some of my favorite Christmas memories are just with family.  That has always been a big thing for any holiday, especially the holiday seasons.  It is being able to spend time with my family.  And I was -- I would be little.  We would go Christmas caroling, my brothers and sisters and cousins, and just go with the Santa hats around, singing Christmas songs.  <br/> <br/>     And we also used to perform as a family at like retirement homes and hospitals.  And those are just -- those are some of my favorite memories we had, being able to give back to other people, in any way we can.  I mean, like we -- I didn't feel like I could do much for other people, but music was always something I felt we could give back.  <br/> <br/>     Opening presents by the tree and having Christmas dinner together at my grand parents' house.  And it is just -- just those kind of fun things.  We also used to have some talent shows.  We used to do talent shows and have family -- take turns performing and stuff.  That's fun. <br/> <br/>     UNIDENTIFIED MALE:  I think when it snowed, it made may little gray industrial town into this magical landscape.  I used to work with my daddy on the milk run.  So we were the first people, 5:00 in the morning, to disturb the snow.  So that memory, for me, was magical.  I still love the snow, even though it was cold and, after a few hours, I was pretty miserable.  When we first went out there, this is great.  <br/> <br/>     S. KING:  The song that I sang -- that I sing called "God Love The Holidays," talks about bringing the family around the Christmas tree and how that really does change everything.  And just having everybody around, my family, my friends and people I really love, and just remembering what Christmas is really about.  For me, the birth of my savior.  And that's a big deal.  <br/> <br/>     UNIDENTIFIED MALE:  Well, I have many memories because when -- because Christmas is for children.  And when I was a children -- when I was a child, my family -- Christmas was truly the most beautiful holiday of the year.  I remember, in particular, a beautiful train that my father built for us, for me, for my brother.  Beautiful, really beautiful.  <br/> <br/>     I remember also a big disappointment because, one year, my parents like big present for Christmas gave me encyclopedia.  This encyclopedia in Italian is called Conosia (ph).  It means "to know." But for me, it was a terrible, terrible present.<br/> <br/>     (COMMERCIAL BREAK)<br/> <br/>     L. KING:  Sting's performance earlier in the show was so great, we asked him for an encore.  Fortunately, he obliged.  He also talked to us about his reflections on the holidays and winter.  You can catch that on our blog at CNN.com/LarryKing.  <br/> <br/>     Now from his new album, "If On A Winter's Night," here's Sting with "Soul Cake." <br/> <br/>     (SINGING)<br/> <br/>     (NEWS BREAK)<br/> <br/>     L. KING:  Another "American Idol" favorite, Katherine McPhee, has a brand new look.  Also got a brand new album coming out in January called "Unbroken."  You can also download the song you are about to hear on iTunes, but after you watch this.  Watch it first, OK?  <br/> <br/>     Here is Katharine McPhee with "I'll Be Home For Christmas." <br/> <br/>     (SINGING)<br/> <br/>     (COMMERCIAL BREAK)      <br/> <br/>     L. KING:  We are going to close my holiday special by featuring my wife, Shawn king.  She is here not because she is my wife.  She's here because she is a terrific sing with a great song.  This tune was written by Bruce Roberts.  Kenny G -- you may have heard of him -- is featured on the sax.  Here's Shawn King and "Gotta Love The Holidays." Enjoy.   <br/> <br/>     (SINGING) <br/> <br/>     L. KING:  How about that?  From the whole gang at our house, everyone at CNN, LARRY KING LIVE, to everyone at your house, have a very happy holiday.  Gotta love the holidays.  Merry Christmas.  Happy new year.  <br/> <br/></p>
+
+
+                            </div></td>
+						</tr>
+					</table>
+
+						<!-- /Content -->
+					</div><!-- /cnnBoxContent -->
+					<div class="cnnBoxFooter"><div></div></div>
+				</div><!-- /cnnWCBox -->
+				<div class="clear"><img src="/assets/1.gif" width="1" height="1" border="0" alt=""/></div>
+			</div><!-- /cnnReskin -->
+		</div><!-- /cnnMainContent -->
+	</div><!-- /cnnContentContainer -->
+<script>var CNN = CNN || {}; </script>
+<div class="cnn-js-chrome-wrapper">
+    <div class="cnn-js-navigation" data-type="footer"></div>
+</div>
+<script type="text/javascript" src="//lightning.cnn.com/launch/7be62238e4c3/97fa00444124/launch-2878c87af5e3.min.js"></script>
+
+
+</div><!-- /cnnContainer -->
+<img src="//cdn.cnn.com/cnn/images/1.gif" alt="" id="TargetImage" name="TargetImage" width="1" height="1" 
+onLoad="getAdHeadCookie(this)"><img src="//cdn.cnn.com/cnn/images/1.gif" alt="" id="TargetImageDE" 
+name="TargetImageDE" width="1" height="1" onLoad="getDEAdHeadCookie(this)">
+
+</body>
+</html>
